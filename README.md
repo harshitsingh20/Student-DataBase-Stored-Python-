@@ -2,7 +2,7 @@
 
 Abot the Project
 
-It is a Mobile App buils in Python using kivy🔥 python libary. To store the student database example like Name, Class, Rollno, Marks, etc.
+It is a Mobile App buils in Python using kivy🔥 python libary. To store the student database example like Name, Class, Rollno, Marks, etc .
 
 About Kivy Libary
 
